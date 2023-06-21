@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Robot framework**
 
-- 💬 Ask me about **Selenium ,Java, playwright,cypress**
+- 💬 Ask me about **Selenium ,Java, playwright,cypress,cucumber**
 
 - 📫 How to reach me **aymenbarka@yahoo.fr**
 
